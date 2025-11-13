@@ -1,4 +1,5 @@
 Adjuntamos código completo:
+
 // ==== Librerías ====
 #include <Servo.h>    // Permite controlar servomotores
 #include <Stepper.h>  // Librería para motor paso a paso
