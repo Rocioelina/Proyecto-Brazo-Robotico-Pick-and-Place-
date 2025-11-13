@@ -7,7 +7,7 @@ En este repositorio adjuntamos los links, fotos e información sobre cómo hicim
 - [Informes Técnicos](./docs/informes/)
 
 ### Código
-- [Código Fuente](./src/)
+- [Código Fuente](./codigo completo/)
 
 ## Integrantes:
 - Rocío Elina Escudero Flores 15018
