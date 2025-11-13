@@ -3,10 +3,10 @@
 ## Descripción
 En este repositorio adjuntamos los links, fotos e información sobre cómo hicimos nuestro proyecto.
 
-### 📄 Documentación
+### Documentación
 - [Informes Técnicos](./docs/informes/)
 
-### 💻 Código
+### Código
 - [Código Fuente](./src/)
 
 ## Integrantes:
