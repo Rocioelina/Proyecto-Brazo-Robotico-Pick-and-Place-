@@ -3,9 +3,6 @@
 ## Descripción
 En este repositorio adjuntamos los links, fotos e información sobre cómo hicimos nuestro proyecto.
 
-### Documentación
-- [Informes](./docs/)
-
 ## Integrantes:
 - Rocío Elina Escudero Flores 15018
 - Bruno Renzo Cicchinelli 1509
