@@ -9,9 +9,6 @@
 ### 💻 Código
 - [Código Fuente](./src/)
 
-### 🔗 Enlaces Externos
-- **Vista 3D**: [Enlace a tu modelo 3D aquí]
-
 ## Integrantes:
 - [Rocío Elina Escudero Flores 15018
 - Bruno Renzo Cicchinelli 1509
