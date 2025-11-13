@@ -4,10 +4,10 @@
 En este repositorio adjuntamos los links, fotos e información sobre cómo hicimos nuestro proyecto.
 
 ### Documentación
-- [Informes Técnicos](./docs/informes/)
+- [Informes Técnicos](./docs/)
 
 ### Código
-- [Código Fuente](./codigo completo/)
+- [Código Fuente](./Código completo/)
 
 ## Integrantes:
 - Rocío Elina Escudero Flores 15018
