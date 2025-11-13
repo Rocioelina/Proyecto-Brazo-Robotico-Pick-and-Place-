@@ -1,4 +1,4 @@
-# [Brazo Robótico Pick-and-Place]
+# Brazo Robótico Pick-and-Place
 
 ## Descripción
 En este repositorio adjuntamos los links, fotos e información sobre cómo hicimos nuestro proyecto.
