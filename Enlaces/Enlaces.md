@@ -10,6 +10,3 @@ https://www.thingiverse.com/thing:5332236)
 [Estos videos de Youtube son de la misma fuente que los links anteriores. El creador en estos videos muestra el funcionamiento del brazo robótico y el ensamble de la cinta transportadora.]
 (https://www.youtube.com/watch?v=-JbckB2klfs
 https://youtu.be/CBfpQr3kZaw)
-
-## Simulación 3D:
-[Adjuntamos simulación 3D del brazo robótico:](https://youtube.com/tu-video)
